@@ -21,14 +21,14 @@
 - 📫 How to reach me **dogukan.ispirli08@gmail.com**
 
 
-  <summary style="font-weight: bold; font-size: 18px">İlgi Alanlarım</summary>
+  <summary style="font-weight: bold; font-size: 18px"><h3>İlgi Alanlarım</h3></summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="20" src="https://github.com/mertushka/mertushka/blob/master/images/visualstudio.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://github.com/mertushka/mertushka/blob/master/images/visualstudio.png"></code>
 
 <br>
 
@@ -65,10 +65,6 @@
     """)
 ​
 ```
-
-<h3 align="left">Languages and Tools:</h3>
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LewisVR&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisVR&layout=compact">
