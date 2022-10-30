@@ -32,16 +32,7 @@
 <br>
 
 
-```python
-from music import headphones
-@music
-class life:
-    languages   : tuple = ("Python", "Shell Bash Scriptting")
-    databases   : tuple = ("SQL", ...)
-    ongoing     : tuple = ("Bug Bounty Hunting", "CTF", "Pentesting")
-    favorites   : tuple = ("Music", "Movie", "Pentesting")
-    activitys   : tuple = ("Hackthebox", "HackerRank", "TryHackMe")
-    
+```
     print("""
     
     
