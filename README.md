@@ -21,7 +21,7 @@
 - 📫 How to reach me **dogukan.ispirli08@gmail.com**
 
 
-  <summary style="font-weight: bold; font-size: 18px"><h3>İlgi Alanlarım</h3></summary>
+  <summary style="font-weight: bold; font-size: 18px"><h3>Tools and Languages</h3></summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -66,7 +66,11 @@
 ​
 ```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LewisVR&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=LewisVR&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" /></p>
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LewisVR&layout=compact">
+<br>
 <p><img align="left" src="hhttps://github-readme-stats.vercel.app/api/pin/?username=LewisVR&repo=github-readme-stats"></p>
-<p><br><img align="left" src="https://github-readme-stats.vercel.app/api?username=LewisVR&theme=blue-green"></br></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=LewisVR&theme=tokyonight"></br></p>
+<br>
