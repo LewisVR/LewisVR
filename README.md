@@ -14,7 +14,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I very enjoy working on
   - 🛠 Ethical Hacking (Cyber Security)
-  - 🐞 Web Programmer (Javascript)
+  - 🐞 Web Programmer (HTML, CSS, Javascript)
 
 - 💬 Ask me about **Python , Javascript**
 
