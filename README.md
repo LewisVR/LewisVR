@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lewis</h1>
-<h3 align="center">I am interested in Cyber Security and Web Programming
+<h3 align="center">I am interested in Junior Software Developer and Cyber Security
 </h3>
 <p align="center">
   <img width="460" height="300" src="https://i.hizliresim.com/ceeghpj.jpg">
