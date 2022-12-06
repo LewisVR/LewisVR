@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my page 👋</h1>
-<h3 align="center">I am interested in Junior Software Developer and Cyber Security 👨🏻‍💻
+<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒂𝒈𝒆 👋</h1>
+<h3 align="center">𝑰 𝒂𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝑱𝒖𝒏𝒊𝒐𝒓 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒂𝒏𝒅 𝑪𝒚𝒃𝒆𝒓 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 👨🏻‍💻
 </h3>
 <p align="center">
   <img width="460" height="300" src="https://i.hizliresim.com/ceeghpj.jpg">
@@ -7,18 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LewisVR&label=Profile%20views&color=0e75b6&style=flat" alt="LewisVR" /> </p>
 
-- 🌱 I'm currently learning **Python, Javascript and Cyber ​​Security...**
+- 🌱  𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑷𝒚𝒕𝒉𝒐𝒏, 𝑱𝒂𝒗𝒂𝒔𝒄𝒓𝒊𝒑𝒕 𝒂𝒏𝒅 𝑪𝒚𝒃𝒆𝒓 ​​𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚.....**
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I very enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝑰 𝒗𝒆𝒓𝒚 𝒆𝒏𝒋𝒐𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏
   - 🛠 Ethical Hacking (Cyber Security)
-  - 🐞 Web Programmer (HTML, CSS, Javascript)
+  - 🐞 Web Programming (HTML, CSS, Javascript)
 
-- 💬 Ask me about **Python , Javascript**
+- 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 **Python , Javascript**
 
-- 📫 How to reach me **dogukan.ispirli08@gmail.com**
+- 📫 𝑻𝒐 𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆 **dogukan.ispirli08@gmail.com**
 
-<summary style="font-weight: bold; font-size: 18px"><h3>Tools and Languages</h3></summary>
+<summary style="font-weight: bold; font-size: 18px"><h3>𝑻𝒐𝒐𝒍𝒔 𝒂𝒏𝒅 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔</h3></summary>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
