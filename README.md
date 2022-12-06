@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LewisVR&label=Profile%20views&color=0e75b6&style=flat" alt="LewisVR" /> </p>
 
-- 🌱 I'm currently learning **Javascript and Cyber ​​Security...**
+- 🌱 I'm currently learning **Python, Javascript and Cyber ​​Security...**
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I very enjoy working on
