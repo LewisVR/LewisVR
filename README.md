@@ -11,7 +11,7 @@
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝑰 𝒗𝒆𝒓𝒚 𝒆𝒏𝒋𝒐𝒚 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒐𝒏
-  - 🛠 Ethical Hacking (Cyber Security)
+  - 🛠 Ethical Hacking (Kali Linux, Python)
   - 🐞 Web Programming (HTML, CSS, Javascript)
 
 - 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕 **Python , Javascript**
